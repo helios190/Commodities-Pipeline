@@ -83,3 +83,5 @@ def scrape_table_data(urls, start_date, end_date):
     # Create a DataFrame from the data with the headers as columns
     df = pd.DataFrame(all_data, columns=headers)
     return df
+
+

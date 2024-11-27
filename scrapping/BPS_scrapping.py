@@ -28,4 +28,3 @@ def fetch_and_transform_bps_data():
 
 # Usage
 df_result = fetch_and_transform_bps_data()
-print(df_result)

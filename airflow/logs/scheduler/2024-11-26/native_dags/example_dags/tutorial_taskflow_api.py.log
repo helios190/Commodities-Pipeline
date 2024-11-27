@@ -1,0 +1,7 @@
+[2024-11-26T19:34:58.118+0700] {processor.py:186} INFO - Started process (PID=49486) to work on /Users/adzkiakhansa/commodities-rekdat/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-11-26T19:34:58.119+0700] {processor.py:914} INFO - Processing file /Users/adzkiakhansa/commodities-rekdat/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-11-26T19:34:58.119+0700] {logging_mixin.py:190} INFO - [2024-11-26T19:34:58.119+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/adzkiakhansa/commodities-rekdat/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-11-26T19:34:58.142+0700] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/adzkiakhansa/commodities-rekdat/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-11-26T19:34:58.261+0700] {logging_mixin.py:190} INFO - [2024-11-26T19:34:58.261+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-26T19:34:58.270+0700] {logging_mixin.py:190} INFO - [2024-11-26T19:34:58.270+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-11-26T19:34:58.290+0700] {processor.py:208} INFO - Processing /Users/adzkiakhansa/commodities-rekdat/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.174 seconds
