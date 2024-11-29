@@ -116,4 +116,4 @@ The database is designed using **Second Normal Form (2NF)** to minimize redundan
 ## Link 
 1. Visualization : bit.ly/RekdatBKJFinal2024
 2. Notion : bit.ly/BKJRekayasaDataFinalProject2024
-3. Video : 
+3. Video : https://drive.google.com/drive/folders/1SATwz58cygLXSOvzkCb3vuJW-VaB4DgD?usp=sharing
