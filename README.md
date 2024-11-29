@@ -112,3 +112,8 @@ The database is designed using **Second Normal Form (2NF)** to minimize redundan
 - Handles missing or inconsistent data by standardizing values.
 
 ---
+
+## Link 
+1. Visualization : bit.ly/RekdatBKJFinal2024
+2. Notion : bit.ly/BKJRekayasaDataFinalProject2024
+3. Video : 
