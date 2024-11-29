@@ -112,18 +112,3 @@ The database is designed using **Second Normal Form (2NF)** to minimize redundan
 - Handles missing or inconsistent data by standardizing values.
 
 ---
-
-## 🚀 How to Use
-
-### 1. **Prerequisites**
-- Python 3.9+  
-- Apache Airflow  
-- PySpark  
-- PostgreSQL  
-- Tableau  
-
-### 2. **Setup Instructions**
-1. Clone the repository.  
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
